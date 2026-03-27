@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Mod_ID",
+    "name": "jame's insane oddities",
+    "authors": [ "Themadhatter" ],
+    "description": "a mod that dds some wierd weapons and attachments",
+    "category": "misc_additions",
+    "dependencies": [ "bn" ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "Anzio20mm",
+  "copy-from": "rifle_base",
+  "type": "GUN",
+  "name": {
+    "str_sp": "Anzio 20mm "
+  },
+  "//": "Price based on unit cost quote for fiscal year 2005 listed at inetres.com, with gunmod modifiers to be added later.",
+  "description": "A large, shoulder-fired, .50 caliber anti-materiel rifle.  Its large size, recoil, and noise is offset by its damage and range.",
+  "weight": "27215 g",
+  "volume": "3500 ml",
+  "price": "11900 USD",
+  "price_postapoc": "745 USD",
+  "material": "steel",
+  "ammo": "20x102",
+  "range": 135,
+  "ranged_damage": {
+    "damage_type": "bullet",
+    "amount": -5
+  },
+  "dispersion": 120,
+  "barrel_volume": "3450 ml",
+  "default_mods": [
+    "bipod",
+    "rifle_scope",
+    "muzzle_brake"
+  ],
+  "built_in_mods": [
+    "bipod",
+    "muzzle_brake"
+  ],
+  "magazine_well": "370 ml",
+  "magazines": [
+    [ "20x102", [ "20x102mag" ] ]
+  ],
+  "flags": [
+    "NEVER_JAMS"
+  ]
+}

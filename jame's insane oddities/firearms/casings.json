@@ -1,0 +1,11 @@
+[
+  {
+    "id": "20x102_casing",
+    "copy-from": "casing",
+    "type": "GENERIC",
+    "name": { "str": "20x102mm casing" },
+    "description": "An empty casing from a 20x102mm round.",
+    "weight": "122 g",
+    "volume": "38 ml"
+  }
+]

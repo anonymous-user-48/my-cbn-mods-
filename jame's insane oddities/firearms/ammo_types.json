@@ -1,0 +1,8 @@
+[
+  {
+    "id": "20x102",
+    "type": "ammunition_type",
+    "name": "20x102mm",
+    "default": "20x102"
+  },
+]

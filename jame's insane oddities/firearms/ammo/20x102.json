@@ -1,0 +1,33 @@
+{
+  "id": "20x102",
+  "type": "AMMO",
+  "name": {
+    "str": "20mm M55A2 TPC"
+  },
+  "description": "The M55A2 cartridge is a 20mm projectile. The solid nose is made of aluminum alloy. The cartridge is used for practice firing, boresighting weapons, and testing new guns. 20mm ammunition is the smallest caliber classified as an autocannon round. These rounds are primarily designed to engage vehicles, buildings, and aircraft rather than individual personnel",
+  "weight": "260 g",
+  "volume": "400 ml",
+  "price": "60 USD",
+  "price_postapoc": "135 USD",
+  "material": [
+    "brass",
+    "powder"
+  ],
+  "symbol": "=",
+  "color": "dark_gray",
+  "count": 7,
+  "ammo_type": "20x102",
+  "casing": "20x102_casing",
+  "range": 135,
+  "damage": {
+    "damage_type": "bullet",
+    "amount": 184,
+    "armor_penetration": 35
+  },
+  "dispersion": 130,
+  "recoil": 6300,
+  "effects": [
+    "COOKOFF",
+    "NEVER_MISFIRES"
+  ]
+}
