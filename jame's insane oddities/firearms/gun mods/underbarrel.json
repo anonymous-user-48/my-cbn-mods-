@@ -1,0 +1,24 @@
+{
+    "id": "u_sniper",
+    "type": "GUNMOD",
+    "name": { "str": "underslung barret" },
+    "description": "this ungodly attachment allows you to mount a sniper rifle under your primary weapon. ",
+    "weight": "1500 g",
+    "volume": "750 ml",
+    "price": "4597 USD",
+    "price_postapoc": "390 USD",
+    "material": [ "steel" ],
+    "symbol": ":",
+    "color": "light_red",
+    "location": "underbarrel",
+    "mod_target_category": [ [ "RIFLES" ]],
+    "gun_data": {
+      "ammo": "50",
+      "skill": "rifle",
+      "dispersion": 280,
+      "durability": 10,
+      "clip_size": 1,
+      "modes": [ [ "DEFAULT", "single", 1 ]]
+    },
+    "flags": [ "RELOAD_ONE" ]
+  },
