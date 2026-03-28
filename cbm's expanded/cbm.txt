@@ -1,157 +1,164 @@
-//: this is a file comparing the cbm list in cbn and cdda. any of the cbm's listing in cdda that are not in cbn that i deem worth adding i will work on adding.
-bright nights:                 | dark days ahead:
-acid dishcarge                 | acid dishcarge
-active defense system          | active defense system
-adrenaline pump                | adrenaline pump
-advanced microreactor          | ------
-aero-evaporator                | aero-evaporator
-air filtration system          | airf filtration system
-alarm system                   | alarm system
-anti-glare compensators        | anti-glare compensators
-arms alloy plating             | ------
-artificial night generator     | artificial night generator
-------                         | audiovox                    
-atommic battery                | ------
-atomic battery upgrade         | ------
-autonomous surgical scalpels   | autonomous surgical scalpels
-battery system                 | battery system
-bionic claws                   | bionic claws
-bionic nostril                 | bionic nostril
-bionic short circuit           | bionic short circuit 
-bionic visual impairment       | bionic visual impairment
-bionic-induced deformity       | bionic induced deformity
-blood analysis                 | blood analysis
-bloof filter                   | blood filter
-cable charger system           | cable charger system
-------                         | calorie tracker
-cable charger system mk.II     | ------
-cable charger upgrade          | ------
-cerebral booster               | cerebral booster
-chain lightning                | chain lightning
-cloaking system                | cloaking system
-close quarter battle           | close quarter battle
-cranial flashlight             | cranial flashlight
-~~debug fuel cell~~            | ------
-deployable grenade launcher    | ------
-diamond cornea                 | ------
-dielectric capacitance system  | dialectric capacitance system
-dopeamine stimulators          |
-------                         | directional emp
-electrical dishcarge           | electrical dishcarge
-electrical drain               | electrical drain
-------                         | electromagnetic leak
-electromagnetic unit           | electromagnetic unit
-electrosense                   | ------
-eletroshock unit               | electroshock unit
-emp projector                  | emp projector
-endocrine enervator            | endocrine enervator
-enhanced hearing               | enhanced hearing
-enhanced memory banks          | enhanced memory banks
-ethanol burner                 | ethanol burner
-expanded digestive system      | expanded digestive system
-facial distortion              | facial distortion
-finger lighter                 | finger lighter
-finger-mounted laser           | finger-mounted laser
-fingerhack                     | fingerhack
-fingerpick                     | fingerpick
-fingertip razors               | fingertip razors
-flashbang generator            | flashbang generator
-fusion blaster arm             | ------
-gasoline fuel cell             | gasoline fuel cell
-glowy thing                    |glowy thing
-head alloy plating             | ------
-heat drain                     | heat drain 
-------                         | Hub 01 XM-ARM
-------                         | Hub 01 XM-BACK
-------                         | Hub 01 XM-leg
-------                         | Hun 01 XM-lens
-hydraulic muscles              | hydraulic muscles
-hydrogen fuel cell             | ------
-implanted night vision         | implanted night vision
-infolink                       | infolink
-infrared vision                | infrared vision
-------                         | integrated AR system
-------                         | integrated circuitry toolset
-integrated dosimiter           | integrated dosimiter
-------                         | intrgrated multimeter
-------                         | integrated multitool
-------                         | integrated chronometer
-integrated toolset             | ------
-internal climate control       | internal climate control
-internal microreactor          | ------
-intravenous needletip          | intravenous needletip
-itchy metal thing              | itchy metal thing
-joint servo                    | joint servo
-joint torsion ratchet          | joint torsion ratchet
-kinetic shock absorbers        | ------
-leaky bionic                   | leaky bionic
-LED tattoo                     | LED tattoo
-legs alloy plating             | ------
-leukocyte breeder system       | leukocyte breeder system
-linguistic coprocessor         | ------
-metabolic interchange          | metabolic interchange
-micro reactor safety override  | ------
-microreactor upgrade           | ------
-monofilament whip              | ------
-monomolecular blade            | monomolecular blade
-motor control overstimulator   | motor control overstimulator
-muscle augmentation            | muscle augmentation
-nictating membrane             | nictating membrane
-noisemaker                     | noisemaker
-------                         | ocular amplifiers
-offensive defense system       | offensive defense system
-------                         | oil generator
-olfacatory mask                | olfacatory mask
-perpetual generator            | ------
-power armor interface          | ------
-power armor mk.II interface    | ------
-power overload                 | power overload
-power storage                  | power storage
-power storage mk.II            | power storage mk.II
-probability travel             | probability travel
-protective lenses              | protective lenses
-radiation scrubber system      | radiation scrubber system
-------                         | radioactive leak
-railgun                        | ------
-------                         | recoil compensators
-recycler unit                  | recycler unit
-remote controller              | remote controller
-repair nanobots                | repair nanobots
-respirator                     | respirator
-self locking thumbs            | self locking thumbs
-sensory dulling                | sensory dulling
-shockwave generator            | shockwave generator
-shotgun arm                    | shotgun arm
-------                         | sleep mode shutdown
-skelatal bracing               | ------
-solar panels                   | ------
-sonic resonator                | sonic resonator
-soporific induction            | soporific induction
-squeaky ankles                 | squeaky ankles
-------                         | subaquatic navigation system
-------                         | subcutaneous protective mesh- Arms
-------                         | subcutaneous protective mesh- Head
-------                         | subcutaneous protective mesh- Legs
-------                         | subcutaneous protective mesh- Torso
-subdermal carbon filament      | subdermal carbon fillament
-------                         | super stun gun
-synaptic acellerator           | synaptic acellerator
-synaptic regeneration system   | synaptic regeneration system
-synthetic lungs                | ------
-------                         | taste fouler
-taste modifier                 | taste modifier
-teleportation unit             | teleportation unit
-telescopic lenses              {{need to finish adding (got sleepy)}}
-terrannian sonar
-thermal dissapation
-thermofluidic propulsion modules
-time dialation
-torso alloy plating
-uncanny dodge
-underwater propellers
-umified power system
-visual disrupter
-voice remodulator
-water extraction unit
-wire-induced stiffnes
-wired reflexes
+//: this is a file comparing the cbm list in cbn and cdda.
+//: updated 03/28/2026
+_______________________________________________________________
+|bright nights:                   | dark days ahead:
+|acid dishcarge                   | acid dishcarge
+|active defense system            | active defense system
+|adrenaline pump                  | adrenaline pump
+|advanced microreactor            | ------
+|aero-evaporator                  | aero-evaporator
+|air filtration system            | airf filtration system
+|alarm system                     | alarm system
+|anti-glare compensators          | anti-glare compensators
+|arms alloy plating               | ------
+|artificial night generator       | artificial night generator
+|------                           | audiovox                    
+|atommic battery                  | ------
+|atomic battery upgrade           | ------
+|autonomous surgical scalpels     | autonomous surgical scalpels
+|battery system                   | battery system
+|bionic claws                     | bionic claws
+|bionic nostril                   | bionic nostril
+|bionic short circuit             | bionic short circuit 
+|bionic visual impairment         | bionic visual impairment
+|bionic-induced deformity         | bionic induced deformity
+|blood analysis                   | blood analysis
+|bloof filter                     | blood filter
+|cable charger system             | cable charger system
+|------                           | calorie tracker
+|cable charger system mk.II       | ------
+|cable charger upgrade            | ------
+|cerebral booster                 | cerebral booster
+|chain lightning                  | chain lightning
+|cloaking system                  | cloaking system
+|close quarter battle             | close quarter battle
+|cranial flashlight               | cranial flashlight
+|~~debug fuel cell~~              | ------
+|deployable grenade launcher      | ------
+|diamond cornea                   | ------
+|dielectric capacitance system    | dialectric capacitance system
+|dopeamine stimulators            |
+|------                           | directional emp
+|electrical dishcarge             | electrical dishcarge
+|electrical drain                 | electrical drain
+|------                           | electromagnetic leak
+|electromagnetic unit             | electromagnetic unit
+|electrosense                     | ------
+|eletroshock unit                 | electroshock unit
+|emp projector                    | emp projector
+|endocrine enervator              | endocrine enervator
+|enhanced hearing                 | enhanced hearing
+|enhanced memory banks            | enhanced memory banks
+|ethanol burner                   | ethanol burner
+|expanded digestive system        | expanded digestive system
+|facial distortion                | facial distortion
+|finger lighter                   | finger lighter
+|finger-mounted laser             | finger-mounted laser
+|fingerhack                       | fingerhack
+|fingerpick                       | fingerpick
+|fingertip razors                 | fingertip razors
+|flashbang generator              | flashbang generator
+|fusion blaster arm               | ------
+|gasoline fuel cell               | gasoline fuel cell
+|glowy thing                      |glowy thing
+|head alloy plating               | ------
+|heat drain                       | heat drain 
+|------                           | Hub 01 XM-ARM
+|------                           | Hub 01 XM-BACK
+|------                           | Hub 01 XM-leg
+|------                           | Hub 01 XM-lens
+|hydraulic muscles                | hydraulic muscles
+hydrogen fuel cell               | ------
+implanted night vision           | implanted night vision
+infolink                         | infolink
+infrared vision                  | infrared vision
+------                           | integrated AR system
+------                           | integrated circuitry toolset
+integrated dosimiter             | integrated dosimiter
+------                           | intrgrated multimeter
+------                           | integrated multitool
+------                           | integrated chronometer
+integrated toolset               | ------
+internal climate control         | internal climate control
+internal microreactor            | ------
+intravenous needletip            | intravenous needletip
+itchy metal thing                | itchy metal thing
+joint servo                      | joint servo
+joint torsion ratchet            | joint torsion ratchet
+kinetic shock absorbers          | ------
+leaky bionic                     | leaky bionic
+LED tattoo                       | LED tattoo
+legs alloy plating               | ------
+leukocyte breeder system         | leukocyte breeder system
+linguistic coprocessor           | ------
+metabolic interchange            | metabolic interchange
+micro reactor safety override    | ------
+microreactor upgrade             | ------
+monofilament whip                | ------
+monomolecular blade              | monomolecular blade
+motor control overstimulator     | motor control overstimulator
+muscle augmentation              | muscle augmentation
+nictating membrane               | nictating membrane
+noisemaker                       | noisemaker
+------                           | ocular amplifiers
+offensive defense system         | offensive defense system
+------                           | oil generator
+olfacatory mask                  | olfacatory mask
+perpetual generator              | ------
+power armor interface            | ------
+power armor mk.II interface      | ------
+power overload                   | power overload
+power storage                    | power storage
+power storage mk.II              | power storage mk.II
+probability travel               | probability travel
+protective lenses                | protective lenses
+radiation scrubber system        | radiation scrubber system
+------                           | radioactive leak
+railgun                          | ------
+------                           | recoil compensators
+recycler unit                    | recycler unit
+remote controller                | remote controller
+repair nanobots                  | repair nanobots
+respirator                       | respirator
+self locking thumbs              | self locking thumbs
+sensory dulling                  | sensory dulling
+shockwave generator              | shockwave generator
+shotgun arm                      | shotgun arm
+------                           | sleep mode shutdown
+skelatal bracing                 | ------
+solar panels                     | ------
+sonic resonator                  | sonic resonator
+soporific induction              | soporific induction
+squeaky ankles                   | squeaky ankles
+------                           | subaquatic navigation system
+------                           | subcutaneous protective mesh- Arms
+------                           | subcutaneous protective mesh- Head
+------                           | subcutaneous protective mesh- Legs
+------                           | subcutaneous protective mesh- Torso |
+subdermal carbon filament        | subdermal carbon fillament          |
+------                           | super stun gun                      | 
+synaptic acellerator             | synaptic acellerator                |
+synaptic regeneration system     | synaptic regeneration system        |
+synthetic lungs                  | ------                              | 
+------                           | taste fouler                        |
+taste modifier                   | taste modifier                      |
+teleportation unit               | teleportation unit                  |
+------                           | telescopic eyes                     |
+telescopic lenses                | ------                              |
+terrannian sonar                 | terrannian sonar                    |
+thermal dissapation              | thermal dissapation                 |
+------                           | throwing assist                     |
+thermofluidic propulsion modules | ------                              |
+time dialation                   | time dialation                      |
+------                           | titanium skelatal bracing           |     
+torso alloy plating              | ------                              |
+uncanny dodge                    | uncanny dodge                       |
+underwater propellers            | ------                              |
+umified power system             | unified power system                |
+visual disruptor                 | visual disruptor                    |
+voice remodulator                | voice remodulator                   |
+water extraction unit            | water extraction unit               |
+------                           | wearman                             |
+------                           | weatherman                          |
+wired 
+|_________________________________|_____________________________________|
