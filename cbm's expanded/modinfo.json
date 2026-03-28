@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "cbm++",
+    "name": "cbm's expanded",
+    "authors": [ "Themadhatter" ],
+    "description": "a mod that addds several cbm's",
+    "category": "misc_additions",
+    "dependencies": [ "bn" ]
+  }
+]
